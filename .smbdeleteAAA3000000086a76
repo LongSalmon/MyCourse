@@ -2,11 +2,3 @@
 .DS_Store
 
 *.exe
-
-*.cbp
-
-*.depend
-
-*.layout
-
-*.o
