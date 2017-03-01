@@ -8,7 +8,7 @@ void printData(int x) {
 int main()
 {
     int i;
-    TNode* p;
+    TNode*  p;
     TLink iLink=NULL;
     initLink(&iLink);
     for(i = 0; i < 20; i++) {

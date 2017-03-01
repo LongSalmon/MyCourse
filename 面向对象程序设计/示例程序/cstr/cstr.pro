@@ -3,8 +3,4 @@ CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
 
-SOURCES += main.c \
-    link.c
-
-HEADERS += \
-    link.h
+SOURCES += main.c
