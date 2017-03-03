@@ -27,15 +27,19 @@
   sayhello(C程序)、PHello(C++程序)
 
 1. Print Triangle
+
   triangle(C程序)、PTriangle(C++程序)
 
 1. link
+
   clink: C语言编写的单链表程序
 
 1. 字符串程序示例(从键盘输入两个字符串，并输出它们拼接后的字符串)
+
   cstr(C)、strfind(C++)
 
 1. 使用对象编程
+
   str(C++), 定义和使用对象
 
 
