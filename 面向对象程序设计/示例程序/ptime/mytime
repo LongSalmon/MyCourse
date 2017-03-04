@@ -1,0 +1,20 @@
+#ifndef _TIME__
+#define _TIME__
+
+namespace nsname {
+
+class CTime
+{
+public:
+    int hour;
+    int minute;
+    int second;
+    void SetTime(int h, int m, int s);
+    void ShowTime();
+    void addHour(int);
+    void addMin(int);
+    void addSec(int);
+};
+
+} // end of namespace nsname
+#endif // __TIME__
