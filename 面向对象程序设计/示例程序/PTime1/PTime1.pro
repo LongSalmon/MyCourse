@@ -7,4 +7,4 @@ SOURCES += main.cpp \
     mytime.cpp
 
 HEADERS += \
-    mytime
+    mytime.h
